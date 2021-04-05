@@ -26,8 +26,8 @@ sudo ufw enable
 sudo ufw allow OpenSSH
 
 # Disabling root login 
-echo "PermitRootLogin no" >> /etc/ssh/sshd_config 
-echo "PermitEmptyPasswords no" /etc/ssh/sshd_config
+# echo "PermitRootLogin no" >> /etc/ssh/sshd_config 
+# echo "PermitEmptyPasswords no" /etc/ssh/sshd_config
 
 # Message of the day 
 sudo wget https://raw.githubusercontent.com/jwandrews99/Linux-Automation/master/misc/motd.sh
