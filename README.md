@@ -12,7 +12,7 @@ Scripts to Automate Ubuntu / Debian Post Install
 # Whats on each script?
 Ubuntu / Debian post install script
 ```
-wget https://raw.githubusercontent.com/jwandrews99/Linux-Post-Install/master/post-install.sh && bash post-install.sh
+wget https://raw.githubusercontent.com/saisilinus/Linux-Post-Install/master/post-install.sh && bash post-install.sh
 ```
 - Sys updates 
 - OpenSSH install
